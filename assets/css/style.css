@@ -64,7 +64,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*left table*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -80,7 +80,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/*right table horizontal*/
+/*right table*/
 .benefits {
     overflow: hidden;
     position: relative;
