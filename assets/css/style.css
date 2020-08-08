@@ -85,6 +85,7 @@ p {
     overflow: hidden;
     position: relative;
     margin-right: 20px;
+    margin-bottom: 30px;
     padding: 20px;
     clear: both;
     float: right;
@@ -96,7 +97,7 @@ p {
 }
 /*benefits*/
 .benefit-lead {
-    margin-bottom: 32px;
+    margin-bottom: 50px;
     color: #ffffff;
 }
 
@@ -113,7 +114,7 @@ p {
 
 
 .benefit-brand {
-    margin-bottom: 32px;
+    margin-bottom: 50px;
     color: #ffffff;
 }
 
@@ -129,7 +130,7 @@ p {
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 60px;
     color: #ffffff;
 }
 
@@ -207,6 +208,8 @@ p {
 /*footer*/
 .footer {
     padding: 30px;
+    background-color: black;
+    color: white;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
