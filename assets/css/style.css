@@ -9,7 +9,7 @@
 body {
     background-color: #d9dcd6;
 }
-/*bigging header*/
+/* header*/
 .header {
     overflow: hidden;
     position: static;
@@ -26,7 +26,7 @@ body {
 }
 
 .header h1  {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 .header div {
@@ -97,7 +97,7 @@ p {
 }
 /*benefits*/
 .benefit-lead {
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     color: #ffffff;
 }
 
@@ -114,7 +114,7 @@ p {
 
 
 .benefit-brand {
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     color: #ffffff;
 }
 
@@ -130,7 +130,7 @@ p {
 }
 
 .benefit-cost {
-    margin-bottom: 60px;
+    margin-bottom: 80px;
     color: #ffffff;
 }
 
